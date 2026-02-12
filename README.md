@@ -20,6 +20,8 @@ Vista general:
 ![ER Overview](docs/er-overview.png)
 
 Secciones:
-![ER Pacientes](docs/er-pacientes.png)
-![ER Diagnóstico](docs/er-diagnostico.png)
-![ER Tratamiento](docs/er-tratamiento.png)
+![ER Pacientes](docs/er-pacientes.PNG)
+![ER Diagnóstico](docs/er-diagnostico.PNG)
+![ER Tratamiento](docs/er-tratamiento.PNG)
+
+Estado: scripts probados en pgAdmin (OK).
